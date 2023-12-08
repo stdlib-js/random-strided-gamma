@@ -238,6 +238,13 @@ logEach( 'x1[%d] = %.2f; x2[%d] = %.2f', idx, x1, idx, x2 );
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/random-base/gamma`][@stdlib/random/base/gamma]</span><span class="delimiter">: </span><span class="description">gamma distributed pseudorandom numbers.</span>
+-   <span class="package-name">[`@stdlib/random-array/gamma`][@stdlib/random/array/gamma]</span><span class="delimiter">: </span><span class="description">create an array containing pseudorandom numbers drawn from a gamma distribution.</span>
+
 </section>
 
 <!-- /.related -->
@@ -316,6 +323,12 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 [@stdlib/random/base/gamma]: https://github.com/stdlib-js/random-base-gamma
 
 [@stdlib/array/uint32]: https://github.com/stdlib-js/array-uint32
+
+<!-- <related-links> -->
+
+[@stdlib/random/array/gamma]: https://github.com/stdlib-js/random-array-gamma
+
+<!-- </related-links> -->
 
 </section>
 
